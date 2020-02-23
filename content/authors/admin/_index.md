@@ -21,14 +21,14 @@ organizations:
 bio: My research interests include vehicle dynamics and control, active safety systems in vehicles and autonomous vehicles.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vehicle Dynamics and Control
+- Modelling od dynamical systems
+- Autonomous vehicles 
 
 education:
   courses:
-  # course: PhD in Artificial Intelligence
-  # institution: Stanford University
+  # course: MPhil in Engineering
+  # institution: University of Cambridge
   # year: 2012
   - course: MPhil in Engineering
     institution: University of Cambridge
@@ -44,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:hksg2012@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  # icon_pack: ai
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # icon: github
+  # icon_pack: fab
+  # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Harsh Kumar Singh is currently pursuing his Master's from the University of Cambridge. He is developing an empirical abrasive tire-wear model for truck tires. This model will then be used in the digital twins of freight trucks for determining tire-wear along major routes of UK.
